@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "¡Gracias cosa!"
+date:   2015-07-16 5:11:26
+categories: test
+---
+
 Componentes (mínimos) para comprar
 ==================================
 
